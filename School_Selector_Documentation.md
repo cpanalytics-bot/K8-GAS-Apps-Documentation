@@ -764,7 +764,7 @@ A: Add their email to the Employee Records Google Sheet, column A.
 | **SPA** | Single Page Application - all screens in one HTML file |
 | **RPC** | Remote Procedure Call - `google.script.run` calls |
 
----
+
 
 ## Document Information
 
@@ -776,7 +776,7 @@ A: Add their email to the Employee Records Google Sheet, column A.
 | Purpose | New Team Member Onboarding & Reference |
 | Maintainer | Development Team |
 
----
+
 
 **End of Documentation**
 
